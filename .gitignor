@@ -1,2 +1,6 @@
 #ignore .doc
+<<<<<<< HEAD
 *.doc
+=======
+text.doc
+>>>>>>> origin/master
